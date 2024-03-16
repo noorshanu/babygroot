@@ -7,7 +7,7 @@ function Navbar() {
   const [isSidebarVisible, setSidebarVisibility] = useState(false);
 
   return (
-    <nav className=" py-1 bg-[#f2bcc5d4]  ">
+    <nav className=" py-1 bg-[#000130]  ">
       <div className="container-wrapper flex items-center justify-between relative">
         <div className=" flex items-center gap-2">
           <img
@@ -16,7 +16,9 @@ function Navbar() {
             alt=""
           />
 
-          <p className=" text-3xl font-medium font-sushi-one">Sushi Cat</p>
+          <p className=" text-3xl font-medium font-groot-one text-[#fff]">
+            Groot
+          </p>
         </div>
 
         <div
@@ -42,39 +44,29 @@ function Navbar() {
 
           <ul className="flex max-lg:flex-col lg:items-center max-lg:space-y-2 lg:space-x-6">
             <li>
-              {/* <a href="/" className=" ">
-                Home
-              </a> */}
-            </li>
-            {/* <li>
-              <a href="/">About</a>
-            </li> */}
-            {/* <li>
-              <a href="/">Roadmap</a>
-            </li> */}
-            {/* <li>
               <a href="/" className=" ">
-                How to buy
+                Home
               </a>
-            </li> */}
-            {/* <li>
+            </li>
+
+            <li>
+              <a href="/"> How to buy</a>
+            </li>
+            <li>
               <a href="/" className=" ">
                 FAQs
               </a>
-            </li> */}
-            {/* <li>
-              <a href="/">Vote</a>
-            </li> */}
+            </li>
           </ul>
         </div>
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
             <a target="_blank" href="https://twitter.com/SushiiCatt5">
-              <FaTwitter />
+              <FaTwitter fill="#fff" />
             </a>
             <a target="_blank" href="https://t.me/sushicatso">
-              <FaTelegram />
+              <FaTelegram fill="#fff" />
             </a>
           </div>
 

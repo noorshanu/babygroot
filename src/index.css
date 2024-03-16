@@ -28,6 +28,16 @@
   font-family: "sushi-two";
 }
 
+@font-face {
+  font-family: "groot-one";
+  src: url("/fonts/groot-one.ttf");
+}
+
+.font-groot-one{
+  font-family: "groot-one";
+}
+
+
 
 @layer base {
   * {
@@ -36,28 +46,28 @@
 
   html,
   body {
-    @apply bg-[#844F59] text-white  ;
+    @apply bg-[#2b1a50] text-white  ;
   }
 
   .container-wrapper {
     @apply max-w-[1240px] w-[90%] mx-auto;
   }
   a{
-    @apply font-sushi-one
+    @apply font-groot-one
   }
 
 }
 
 
 .bg-main{
-  background-image: url(/images/bg.jpeg);
+  background-image: url(/images/backg.webp);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .big-info__inner {
-  background:  #f5b0bb;
+  background:  #3B062F;
   background-size: cover, cover;
   border-radius: 12px;
   display: flex;
