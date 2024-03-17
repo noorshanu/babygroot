@@ -16,7 +16,7 @@ function Navbar() {
             alt=""
           />
 
-          <p className=" text-3xl font-bold font-groot-one text-[#000]">
+          <p className=" text-3xl font-bold font-groot-one text-[#fff]">
             GrootSol
           </p>
         </div>

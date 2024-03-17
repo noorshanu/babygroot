@@ -60,10 +60,10 @@
 
 
 .bg-main{
-  background-image: url(/images/backg.webp);
+  background-image: url(/images/bg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: center ;
 }
 
 .big-info__inner {
