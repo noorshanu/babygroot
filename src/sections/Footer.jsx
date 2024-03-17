@@ -13,13 +13,13 @@ const Footer = () => {
               alt=""
             />
 
-            <p className=" text-2xl font-groot-one">Groot</p>
+            <p className=" text-2xl font-groot-one">GrootSol</p>
           </div>
 
           <div className="mt-8  flex justify-center flex-col sm:flex-row items-center space-x-6">
             <div>
               <p className="font-groot-one">
-                Copyright 2024 GROOT. All Rights Reserved.
+                Copyright 2024 GROOTSOL. All Rights Reserved.
               </p>
             </div>
             <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
