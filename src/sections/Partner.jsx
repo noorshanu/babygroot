@@ -6,7 +6,7 @@ function Partner() {
     <section className=" mt-8">
       <div className=" container-wrapper">
         <div className=" py-3">
-          <h2 className="font-groot-one text-5xl my-2 text-[#ffffff] text-center">
+          <h2 className="font-groot-one text-2xl sm:text-5xl my-2 text-[#ffffff] text-center">
             Our Partners
           </h2>
         </div>

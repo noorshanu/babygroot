@@ -5,7 +5,7 @@ function Hero() {
         <div className="relative z-50">
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
             <div className=" w-full  bg-[#851B2C] bg-opacity-70 border-2 rounded-lg p-5 shadow-lg border-[#68c513]">
-              <h1 className=" font-groot-one text-4xl my-4 text-[#fff]">
+              <h1 className=" font-groot-one text-2xl sm:text-4xl my-4 text-[#fff]">
                 Welcome to the Groot NFT Universe! :
               </h1>
 
@@ -17,7 +17,7 @@ function Hero() {
                 <a
                   href="https://solscan.io/token/Ft5kV9VpmNuFawoGLhbHKTsWDUKUraa43GKdQBf8zdV3"
                   target="_blank"
-                  className="my-2 font-groot-one flex justify-start text-base  text-white  sm:text-lg"
+                  className="my-2 font-groot-one flex justify-start text-xs  text-white  sm:text-lg"
                 >
                   {" "}
                   Contract : Ft5kV9VpmNuFawoGLhbHKTsWDUKUraa43GKdQBf8zdV3

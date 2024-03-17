@@ -70,12 +70,12 @@ function Navbar() {
             </a>
           </div>
 
-          <button
+          {/* <button
             className="text-2xl lg:hidden"
             onClick={() => setSidebarVisibility(true)}
           >
             <IoMenu />
-          </button>
+          </button> */}
         </div>
       </div>
     </nav>
