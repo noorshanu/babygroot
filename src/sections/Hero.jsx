@@ -34,7 +34,7 @@ function Hero() {
                 </a>
 
                 <a
-                  href="#"
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/BozmMqmN55QCteprcuTL9cqiQtvNM3Ti6fQGRNcgJbqS?t=1710695593048"
                   target="_blank"
                   className="py-2 text-base uppercase font-sushi-one px-10 rounded-full bg-[#f3a667] shadow-lg shadow-black/40 text-black  font-bold border-2 border-[#68c513]"
                 >
