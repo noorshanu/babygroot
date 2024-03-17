@@ -38,7 +38,7 @@ function Hero() {
                   target="_blank"
                   className="py-2 text-base uppercase font-sushi-one px-10 rounded-full bg-[#f3a667] shadow-lg shadow-black/40 text-black  font-bold border-2 border-[#68c513]"
                 >
-                  Dex Tool
+                  DEXTOOLS
                 </a>
               </div>
             </div>
