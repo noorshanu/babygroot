@@ -1,18 +1,11 @@
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/navigation";
-import { Navigation ,Autoplay} from "swiper/modules";
+import { Navigation, Autoplay } from "swiper/modules";
 
 import SliderNavigationButton from "./SliderNavigationButton";
 
-
-
-
-
-
 function RoadmapCards() {
-
-
   return (
     <section className="px-6">
       <Swiper
@@ -28,39 +21,46 @@ function RoadmapCards() {
           nextEl: "#nextEl",
           prevEl: "#prevEl",
         }}
-        
       >
-      
-          <SwiperSlide >
-          <img src="images/suchicat1.jpeg" alt="" className=" rounded-xl border-black border" />
-            
-          </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src="images/suchicat1.jpeg"
+            alt=""
+            className=" rounded-xl border-black border"
+          />
+        </SwiperSlide>
 
-          <SwiperSlide >
-          <img src="images/suchicat3.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src="images/suchicat3.jpeg"
+            alt=""
+            className=" rounded-xl border-black border m-4"
+          />
+        </SwiperSlide>
 
-          <SwiperSlide >
-          <img src="images/suchicat4.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src="images/suchicat4.jpeg"
+            alt=""
+            className=" rounded-xl border-black border m-4"
+          />
+        </SwiperSlide>
 
-          <SwiperSlide >
-          <img src="images/suchicat5.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
+        <SwiperSlide>
+          <img
+            src="images/suchicat5.jpeg"
+            alt=""
+            className=" rounded-xl border-black border m-4"
+          />
+        </SwiperSlide>
 
-          <SwiperSlide >
-          <img src="images/suchicat6.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
-
-          <SwiperSlide >
-          <img src="images/suchicat7.jpeg" alt="" className=" rounded-xl border-black border m-4" />
-            
-          </SwiperSlide>
-   
+        <SwiperSlide>
+          <img
+            src="images/suchicat6.jpeg"
+            alt=""
+            className=" rounded-xl border-black border m-4"
+          />
+        </SwiperSlide>
       </Swiper>
 
       <div className="flex items-center space-x-5 justify-center">

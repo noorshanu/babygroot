@@ -6,22 +6,25 @@ function Hero() {
           <div className=" flex justify-between flex-col sm:flex-row items-center ">
             <div className=" w-full  bg-[#851B2C] bg-opacity-50 border rounded-lg p-5 shadow-lg">
               <h1 className=" font-groot-one text-4xl my-4 text-[#fff]">
-              Welcome to the Groot NFT Universe! :
+                Welcome to the Groot NFT Universe! :
               </h1>
 
               <p className="font-groot-one  text-xl text-white">
-               The purrfect blend
-                of Japanese charm, meme magic, and delicious crypto goodness!  Sushi Cat isn't just your ordinary feline;
+                Embark on an adventure with Baby Groot Coin, where whimsical
+                charm, cosmic wonder, and crypto excitement collide! This
+                pint-sized hero isn't just any sprout;
               </p>
 
               <p className=" font-groot-one text-xl text-white py-1">
-               This adorable kitty
-                is on a mission to satisfy appetites and make holders grow
-                bigger than a sumo wrestler on a sushi binge! With each tasty
-                morsel devoured, Sushi Cat's hunger grows, and so does the
-                community's excitement! Join our vibrant community of food
-                lovers, crypto enthusiasts, and sushi cat meme fans for a
-                purrfectly fun ride!
+                Baby Groot is here to plant the seeds of growth and joy,
+                sprouting prosperity with every transaction! As Baby Groot
+                dances his way through the crypto galaxy, our community grows
+                stronger, united by a love for all things adorable and
+                out-of-this-world! Join us as we journey through the cosmos,
+                spreading Groot's message of friendship, resilience, and
+                infinite possibilities. Let's grow together, one leaf at a time,
+                and create a galaxy where everyone can shine like the stars! We
+                are Groot! 🌱✨
               </p>
 
               <div className=" py-2">
@@ -43,7 +46,8 @@ function Hero() {
                   buy now
                 </a>
                 <a
-                  href="https://t.me/sushicatso" target="_blank"
+                  href="https://t.me/sushicatso"
+                  target="_blank"
                   className="text-base py-2 uppercase font-sushi-one px-10 rounded-full bg-gradient-to-b from-[#e47369] to-[#f1a3ff] shadow-lg shadow-black/40 text-black  font-bold border border-yellow"
                 >
                   join telegram

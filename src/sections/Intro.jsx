@@ -12,24 +12,25 @@ const Intro = () => {
         <div className=" big-info__inner px-4 border-[#fff] border py-2 ">
           <div className=" max-w-xl">
             <p className="font-medium font-groot-one text-3xl text-white  py-2">
-              Sushi Cat: The cutest meme coin on Solana, serving up
-              sushi-inspired crypto fun!
+              Introducing Baby Groot Coin: The Rootin'-Tootin' Crypto Companion
+              Inspired by the Guardian of the Galaxy!
             </p>
             <h1 className=" text-2xl py-3  font-groot-one text-white  font-medium">
-              1. Sushi NFTs: Dive into a world of digital sushi art with our
-              exclusive collection of Sushi NFTs. Rare and delicious – just like
-              the real thing!
+              Groot NFTs: Step into the cosmic realm with our exclusive
+              collection of Groot NFTs. Each one as unique and endearing as our
+              beloved Baby Groot himself!
             </h1>
 
             <h1 className=" text-2xl py-3 font-groot-one  text-white font-medium">
-              2. Trading Bot: Our trading bot helps you navigate the crypto
-              market while you enjoy your sushi. Never miss out on the hottest
-              trends again!
+              GrootBot: Our trusty GrootBot is here to assist you in navigating
+              the crypto universe. Stay on top of market trends while grooving
+              to the beats of Groot's tunes!
             </h1>
 
             <h1 className=" text-2xl py-3 font-groot-one text-white font-medium">
-              3. 24/7 Growing Community: Join our expanding community and let's
-              grow together while munching on sushi!
+              24/7 Galactic Community: Join our intergalactic community and
+              let's grow together as we protect the galaxy and spread Groot's
+              message of unity and friendship! We are Groot!
             </h1>
           </div>
 

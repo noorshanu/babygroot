@@ -8,7 +8,7 @@ function MemeMark() {
         <div>
           <Marquee>
             <img
-              src="images/logo (2).png"
+              src="images/icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -16,27 +16,13 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
-
-            <img
-              src="images/coin.png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <img
-              src="images/logo (2).png"
+              src="images/icon-two.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -44,13 +30,13 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-two.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
+              src="images/icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -58,13 +44,27 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-three.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
+              src="images/icon-two.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+
+            <img
+              src="images/ball-icon-one.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <img
+              src="images/icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -74,13 +74,13 @@ function MemeMark() {
             </h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-two.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
+              src="images/icon-two.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -90,27 +90,13 @@ function MemeMark() {
             </h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-three.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
-
-            <img
-              src="images/coin.png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <img
-              src="images/logo (2).png"
+              src="images/icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -118,27 +104,13 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
 
             <img
-              src="images/logo (2).png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
-
-            <img
-              src="images/coin.png"
-              alt=""
-              className="h-[40px] w-auto px-2"
-            />
-
-            <img
-              src="images/logo (2).png"
+              src="images/icon-two.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -146,7 +118,35 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/coin.png"
+              src="images/ball-icon-two.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <img
+              src="images/icon-one.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+
+            <img
+              src="images/ball-icon-three.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <img
+              src="images/icon-two.png"
+              alt=""
+              className="h-[40px] w-auto px-2"
+            />
+
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+
+            <img
+              src="images/ball-icon-one.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />

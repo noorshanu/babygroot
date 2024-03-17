@@ -1,81 +1,82 @@
 import React from "react";
 
-function Meme() {
+function MemeCards() {
   return (
     <div className=" container-wrapper py-4 px-4 mx-auto">
-     
-
-      <h2 className=" text-2xl py-2">A Meme Saga begins...</h2>
+      <h2 className=" text-2xl py-2 font-groot-one">A Meme Saga begins...</h2>
 
       <div className=" flex items-center gap-4 justify-between flex-col sm:flex-row">
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[270px] h-[500px]">
           <div>
-            <p className="font-ninja">Explore the Culinary Cosmos</p>
+            <p className="font-ninja">Experience the Nature</p>
           </div>
 
           <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
-            <img src="images/suchicat2.jpeg" alt="" className="" />
+            <img src="images/MemesCardOne.webp" alt="" className="" />
           </div>
 
           <div className="ml-2 flex justify-center items-center">
-            <p className="capitalize">
+            <p className="capitalize font-groot-one">
               {" "}
-              Indulge in a universe where sushi meets feline charm. Discover
-              diverse virtual sushi restaurants offering traditional nigiri to
-              exotic rolls.
+              Explore a Universe where Crypto meets Cosmic Wonder. Dive into a
+              Multiverse of Botanical Delights, from Enchanted Forests to
+              Galactic Gardens, all under the watchful eye of Baby Groot
+              himself.
             </p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap  justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[270px] h-[500px]">
           <div>
-            <p className="font-ninja">Join the Whiskered Revolution</p>
+            <p className="font-ninja">Join the Sprout Revolution</p>
           </div>
 
           <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
-            <img src="images/suchicat1.jpeg" alt="" className="" />
+            <img src="images/MemesCardTwo.webp" alt="" className="" />
           </div>
 
           <div className="ml-2 flex justify-center items-center">
-            <p className="capitalize">
-              Become a visionary chef in the SushiCat community. Open your own
-              sushi restaurant, compete, trade rare ingredients, and connect
-              with fellow sushi enthusiasts.
+            <p className="capitalize font-groot-one">
+              Become a Guardian of Growth in the Baby Groot Community. Cultivate
+              your own Crypto Garden, Trade Rare Flora, and Forge Connections
+              with Fellow Nature Enthusiasts.
             </p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[270px] h-[500px]">
           <div>
-            <p className=" font-ninja">Embrace the Cat Craze</p>
+            <p className=" font-ninja">Embrace the Groot Glory</p>
           </div>
 
-          <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
-            <img src="images/suchicat6.jpeg" alt="" className="" />
+          <div className="w-[250px] h-[250px] mb-10 border-none rounded-2xl overflow-hidden ">
+            <img src="images/MemesCardThree.webp" alt="" className="w-full h-full" />
           </div>
 
           <div className="ml-2 flex justify-center items-center">
-            <p className="capitalize">
-              Immerse yourself in a world where cats rule. Experience the charm
-              of feline-inspired sushi-making in our vibrant virtual realm.
+            <p className="capitalize font-groot-one">
+              Immerse yourself in the Heart of Nature's Majesty. Discover the
+              Beauty of Groot-inspired Gardens and Eco-friendly Endeavors in our
+              Vibrant Virtual Realm.
             </p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl border border-[#fff] w-[270px] h-[500px]">
           <div>
-            <p className=" font-ninja">Tailored Experiences</p>
+            <p className=" font-ninja">Personalized Adventures</p>
           </div>
 
           <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
-            <img src="images/suchicat4.jpeg" alt="" className="" />
+            <img src="images/MemesCardFour.webp" alt="" className="" />
           </div>
 
           <div className="ml-2 flex justify-center items-center">
-            <p className="capitalize">
-              Customize your journey in SushiCat World. From restaurant themes
-              to menu creations, make every moment uniquely yours.With endless
-              possibilities, your culinary adventure awaits.
+            <p className="capitalize font-groot-one">
+              Tailor your Journey in the Baby Groot Universe. From Botanical
+              Themes to Green Innovations, Craft Every Moment to Reflect your
+              Love for Nature and Crypto. With Infinite Possibilities, Your
+              Green Adventure Awaits. We are Groot!
             </p>
           </div>
         </div>
@@ -95,4 +96,4 @@ function Meme() {
   );
 }
 
-export default Meme;
+export default MemeCards;
