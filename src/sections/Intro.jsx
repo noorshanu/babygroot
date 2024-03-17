@@ -9,7 +9,7 @@ const Intro = () => {
           About Us 
         </h2>
 
-        <div className="  px-4  py-2 flex justify-between items-center ">
+        <div className="  px-4  py-2 flex justify-between flex-col sm:flex-row items-center ">
           <div className=" max-w-xl">
             <p className="font-medium font-groot-one text-3xl text-white  py-2">
               Introducing Baby Groot Coin: The Rootin'-Tootin' Crypto Companion
