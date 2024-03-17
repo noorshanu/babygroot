@@ -13,7 +13,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -27,7 +27,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -41,7 +41,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -55,7 +55,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -101,7 +101,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -115,7 +115,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -129,7 +129,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
@@ -143,7 +143,7 @@ function MemeMark() {
               className="h-[40px] w-auto px-2"
             />
 
-            <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
+            <h2 className="text-2xl text-center px-1 font-groot-one ">GrootSol</h2>
 
             <img
               src="images/logo3.png"
