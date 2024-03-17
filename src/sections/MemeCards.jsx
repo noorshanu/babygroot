@@ -9,25 +9,25 @@ function MemeCards() {
 
       <div className=" flex items-center gap-4 justify-between flex-col sm:flex-row">
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl  w-[270px] h-auto sm:h-[500px]">
-          <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
+          <div className="w-[250px] mb-2 border-none rounded-2xl overflow-hidden">
             <img src="images/MemesCardOne.webp" alt="" className="" />
           </div>
           <div>
-            <p className="font-groot-one text-xl">Experience the Nature</p>
+            <p className="font-groot-one text-xl">Groot NFTs</p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap  justify-center items-center overflow-hidden rounded-xl  w-[270px] h-auto sm:h-[500px]">
-          <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
+          <div className="w-[250px] mb-2 border-none rounded-2xl overflow-hidden">
             <img src="images/MemesCardTwo.webp" alt="" className="" />
           </div>
           <div>
-            <p className="font-groot-one text-xl">Join the Sprout Revolution</p>
+            <p className="font-groot-one text-xl">Groot Gaming</p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl  w-[270px] h-auto sm:h-[500px]">
-          <div className="w-[250px] h-[250px] mb-10 border-none rounded-2xl overflow-hidden ">
+          <div className="w-[250px] h-[250px] mb-2 border-none rounded-2xl overflow-hidden ">
             <img
               src="images/MemesCardThree.webp"
               alt=""
@@ -35,29 +35,19 @@ function MemeCards() {
             />
           </div>
           <div>
-            <p className=" font-groot-one text-xl">Embrace the Groot Glory</p>
+            <p className=" font-groot-one text-xl">Trading Bot</p>
           </div>
         </div>
 
         <div className="flex flex-col flex-wrap justify-center items-center overflow-hidden rounded-xl  w-[270px] h-auto sm:h-[500px]">
-          <div className="w-[250px] mb-10 border-none rounded-2xl overflow-hidden">
+          <div className="w-[250px] mb-2 border-none rounded-2xl overflow-hidden">
             <img src="images/MemesCardFour.webp" alt="" className="" />
           </div>
           <div>
-            <p className=" font-groot-one text-xl ">Personalized Adventures</p>
+            <p className=" font-groot-one text-xl ">Groot Staking</p>
           </div>
         </div>
-        {/*         
-        <img
-          src="images/meme2.jpeg"
-          alt=""
-          className=" rounded-xl border border-[#fed403] h-[350px]"
-        />
-        <img
-          src="images/meme3.jpeg"
-          alt=""
-          className=" rounded-xl border border-[#fed403] h-[350px]"
-        /> */}
+  
       </div>
     </div>
   );
