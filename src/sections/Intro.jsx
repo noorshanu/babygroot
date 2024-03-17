@@ -6,10 +6,10 @@ const Intro = () => {
     <>
       <div className=" container-wrapper  px-4 ">
         <h2 className="font-groot-one text-5xl my-2 text-[#ffffff] text-center">
-          Our Products
+          About Us 
         </h2>
 
-        <div className=" big-info__inner px-4 border-[#fff] border py-2 ">
+        <div className="  px-4  py-2 flex justify-between items-center ">
           <div className=" max-w-xl">
             <p className="font-medium font-groot-one text-3xl text-white  py-2">
               Introducing Baby Groot Coin: The Rootin'-Tootin' Crypto Companion

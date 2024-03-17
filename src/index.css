@@ -46,7 +46,7 @@
 
   html,
   body {
-    @apply bg-[#2b1a50] text-white  ;
+    @apply bg-[#000130] text-white  ;
   }
 
   .container-wrapper {
@@ -73,6 +73,24 @@
   display: flex;
   align-items: flex-center;
   justify-content: space-between;
+}
+
+.floating {
+  animation-name: floating;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes floating {
+  0% {
+    transform: translate(0, 0px);
+  }
+  50% {
+    transform: translate(0, 15px);
+  }
+  100% {
+    transform: translate(0, -0px);
+  }
 }
 
 @media (max-width:768px) {

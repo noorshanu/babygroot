@@ -16,7 +16,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-one.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -30,7 +30,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-two.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -44,7 +44,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-three.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -58,7 +58,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-one.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -74,7 +74,7 @@ function MemeMark() {
             </h2>
 
             <img
-              src="images/ball-icon-two.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -90,7 +90,7 @@ function MemeMark() {
             </h2>
 
             <img
-              src="images/ball-icon-three.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -104,7 +104,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-one.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -118,7 +118,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-two.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -132,7 +132,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-three.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />
@@ -146,7 +146,7 @@ function MemeMark() {
             <h2 className="text-2xl text-center px-1 font-groot-one ">GROOT</h2>
 
             <img
-              src="images/ball-icon-one.png"
+              src="images/logo3.png"
               alt=""
               className="h-[40px] w-auto px-2"
             />

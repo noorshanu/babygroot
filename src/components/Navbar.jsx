@@ -7,17 +7,17 @@ function Navbar() {
   const [isSidebarVisible, setSidebarVisibility] = useState(false);
 
   return (
-    <nav className=" py-1 bg-[#000130]  ">
+    <nav className=" py-1 bg-[]  ">
       <div className="container-wrapper flex items-center justify-between relative">
         <div className=" flex items-center gap-2">
           <img
-            src="/images/logo.png"
-            className="max-w-[4rem] w-full rounded-full"
+            src="/images/icon-one.png"
+            className="max-w-[7rem] w-full rounded-full"
             alt=""
           />
 
-          <p className=" text-3xl font-medium font-groot-one text-[#fff]">
-            Groot
+          <p className=" text-3xl font-bold font-groot-one text-[#000]">
+            GrootSol
           </p>
         </div>
 
@@ -43,7 +43,7 @@ function Navbar() {
           </div>
 
           <ul className="flex max-lg:flex-col lg:items-center max-lg:space-y-2 lg:space-x-6">
-            <li>
+            {/* <li>
               <a href="/" className=" ">
                 Home
               </a>
@@ -56,16 +56,16 @@ function Navbar() {
               <a href="/" className=" ">
                 FAQs
               </a>
-            </li>
+            </li> */}
           </ul>
         </div>
 
         <div className="flex items-center space-x-6">
           <div className="flex items-center space-x-4 text-xl [&_a:hover]:opacity-70">
-            <a target="_blank" href="https://twitter.com/SushiiCatt5">
+            <a target="_blank" href="https://twitter.com/SushiiCatt5" className=" text-4xl">
               <FaTwitter fill="#fff" />
             </a>
-            <a target="_blank" href="https://t.me/sushicatso">
+            <a target="_blank" href="https://t.me/sushicatso" className=" text-4xl">
               <FaTelegram fill="#fff" />
             </a>
           </div>
