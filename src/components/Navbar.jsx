@@ -34,12 +34,12 @@ function Navbar() {
               alt=""
             />
 
-            <button
+            {/* <button
               className="text-2xl"
               onClick={() => setSidebarVisibility(false)}
             >
               <IoClose />
-            </button>
+            </button> */}
           </div>
 
           <ul className="flex max-lg:flex-col lg:items-center max-lg:space-y-2 lg:space-x-6">
